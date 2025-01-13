@@ -28,6 +28,10 @@
     margin: 2px 0px 2px 0px;
 }
 
+#booleaner {
+    color: blue;
+}
+
 #data {
     color: grey;
     margin: 2px 0px 2px 0px;
@@ -42,4 +46,8 @@
     margin-bottom: 0px;
     font-size: 12px;
     color: #3c2e2e;
+}
+
+#text {
+    background-color: yellow;
 }
