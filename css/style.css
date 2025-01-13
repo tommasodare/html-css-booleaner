@@ -57,7 +57,49 @@
     color: white;
 }
 
+.table-box {
+    width: 25%;
+}
+
+.table-text {
+    text-align: left;
+}
+
+
 .td {
     background-color:aquamarine;
 }
 
+#h3 {
+    color: grey;
+}
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 208px;
+    width: 312px;
+    margin-bottom: 20px;
+}
+
+#h3-image {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 25px;
+    color: white;
+}
+
+#graph {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 208px;
+    width: 312px;
+    margin-bottom: 20px;
+}
+
+#h3-image2 {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 25px;
+    color: white;
+}
