@@ -1,0 +1,118 @@
+#body {
+    margin: 0px 0px 0px 0px;
+}
+
+#side-header {
+    background-image: url(../img/pattern.png);
+    background-color: aqua;
+    padding-top: 40px;
+}
+
+#logo-image {
+    width: 200px;
+    margin-left: 5px;
+}
+
+#main {
+    width: 50%;
+    margin: auto;
+}
+
+#main {
+    width: 50%;
+    margin: auto;
+}
+
+
+#titol {
+    font-size: 50px;
+    margin: 2px 0px 2px 0px;
+}
+
+#subtitle {
+    color: grey;
+    font-size: 20px;
+    margin: 2px 0px 2px 0px;
+}
+
+#booleaner {
+    color: blue;
+}
+
+#data {
+    color: grey;
+    margin: 2px 0px 2px 0px;
+}
+
+#image-box {
+    margin-top: 20px;
+}
+
+.references {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 12px;
+    color: #3c2e2e;
+}
+
+.text {
+    background-color: yellow;
+}
+
+#thead {
+    background-color: blue;
+    color: white;
+}
+
+.table-box {
+    width: 25%;
+}
+
+.table-text {
+    text-align: left;
+}
+
+
+.td {
+    background-color:aquamarine;
+    height: 50px;
+}
+
+.tr {
+    height: 50px;
+}
+
+#h3 {
+    color: grey;
+    margin-bottom: -20px;
+}
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 208px;
+    width: 312px;
+    margin-bottom: 20px;
+}
+
+#h3-image {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 25px;
+    color: white;
+}
+
+#graph {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 208px;
+    width: 312px;
+    margin-bottom: 20px;
+}
+
+#h3-image2 {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 25px;
+    color: white;
+}
